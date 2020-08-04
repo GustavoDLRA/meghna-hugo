@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   title: Servicios en Tamcas
   about_item:
   - icon: ti-ruler-pencil
